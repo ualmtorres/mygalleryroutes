@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('mygiphy App', () => {
+describe('mygallery App', () => {
   let page: AppPage;
 
   beforeEach(() => {
