@@ -5,3 +5,7 @@ img {
 img:hover {
     -webkit-filter: grayscale(1);
 }
+
+a:hover {
+    cursor: pointer;
+}
